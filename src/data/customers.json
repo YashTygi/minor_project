@@ -1,0 +1,204 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "totalPurchases": 1250,
+      "engagementScore": 85,
+      "preferences": ["Electronics", "Books"],
+      "lastInteraction": "2024-11-01",
+      "recentPurchaseDate": "2024-11-06"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "totalPurchases": 980,
+      "engagementScore": 72,
+      "preferences": ["Sports", "Outdoors"],
+      "lastInteraction": "2024-11-02",
+      "recentPurchaseDate": "2024-11-05"
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "email": "carol@example.com",
+      "totalPurchases": 3200,
+      "engagementScore": 95,
+      "preferences": ["Fashion", "Beauty"],
+      "lastInteraction": "2024-11-03",
+      "recentPurchaseDate": "2024-11-07"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "email": "david@example.com",
+      "totalPurchases": 750,
+      "engagementScore": 68,
+      "preferences": ["Gaming", "Electronics"],
+      "lastInteraction": "2024-11-04",
+      "recentPurchaseDate": "2024-11-08"
+    },
+    {
+      "id": 5,
+      "name": "Emma Davis",
+      "email": "emma@example.com",
+      "totalPurchases": 1800,
+      "engagementScore": 88,
+      "preferences": ["Books", "Music"],
+      "lastInteraction": "2024-11-05",
+      "recentPurchaseDate": "2024-11-09"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "email": "frank@example.com",
+      "totalPurchases": 2100,
+      "engagementScore": 91,
+      "preferences": ["Sports", "Health"],
+      "lastInteraction": "2024-11-06",
+      "recentPurchaseDate": "2024-11-10"
+    },
+    {
+      "id": 7,
+      "name": "Grace Wilson",
+      "email": "grace@example.com",
+      "totalPurchases": 920,
+      "engagementScore": 75,
+      "preferences": ["Home", "Garden"],
+      "lastInteraction": "2024-11-07",
+      "recentPurchaseDate": "2024-11-11"
+    },
+    {
+      "id": 8,
+      "name": "Henry Taylor",
+      "email": "henry@example.com",
+      "totalPurchases": 1650,
+      "engagementScore": 82,
+      "preferences": ["Electronics", "Gaming"],
+      "lastInteraction": "2024-11-08",
+      "recentPurchaseDate": "2024-11-12"
+    },
+    {
+      "id": 9,
+      "name": "Isla Anderson",
+      "email": "isla@example.com",
+      "totalPurchases": 3100,
+      "engagementScore": 94,
+      "preferences": ["Fashion", "Jewelry"],
+      "lastInteraction": "2024-11-09",
+      "recentPurchaseDate": "2024-11-13"
+    },
+    {
+      "id": 10,
+      "name": "Jack Martin",
+      "email": "jack@example.com",
+      "totalPurchases": 890,
+      "engagementScore": 71,
+      "preferences": ["Outdoors", "Sports"],
+      "lastInteraction": "2024-11-10",
+      "recentPurchaseDate": "2024-11-14"
+    },
+    {
+      "id": 11,
+      "name": "Katie Clark",
+      "email": "katie@example.com",
+      "totalPurchases": 2400,
+      "engagementScore": 89,
+      "preferences": ["Beauty", "Fashion"],
+      "lastInteraction": "2024-11-11",
+      "recentPurchaseDate": "2024-11-15"
+    },
+    {
+      "id": 12,
+      "name": "Liam Wright",
+      "email": "liam@example.com",
+      "totalPurchases": 1350,
+      "engagementScore": 78,
+      "preferences": ["Books", "Electronics"],
+      "lastInteraction": "2024-11-12",
+      "recentPurchaseDate": "2024-11-16"
+    },
+    {
+      "id": 13,
+      "name": "Mia Thompson",
+      "email": "mia@example.com",
+      "totalPurchases": 2800,
+      "engagementScore": 93,
+      "preferences": ["Music", "Art"],
+      "lastInteraction": "2024-11-13",
+      "recentPurchaseDate": "2024-11-17"
+    },
+    {
+      "id": 14,
+      "name": "Noah Lewis",
+      "email": "noah@example.com",
+      "totalPurchases": 1100,
+      "engagementScore": 76,
+      "preferences": ["Gaming", "Movies"],
+      "lastInteraction": "2024-11-14",
+      "recentPurchaseDate": "2024-11-18"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Hall",
+      "email": "olivia@example.com",
+      "totalPurchases": 1950,
+      "engagementScore": 87,
+      "preferences": ["Home", "Kitchen"],
+      "lastInteraction": "2024-11-15",
+      "recentPurchaseDate": "2024-11-19"
+    },
+    {
+      "id": 16,
+      "name": "Peter Young",
+      "email": "peter@example.com",
+      "totalPurchases": 2250,
+      "engagementScore": 90,
+      "preferences": ["Sports", "Fashion"],
+      "lastInteraction": "2024-11-16",
+      "recentPurchaseDate": "2024-11-20"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Adams",
+      "email": "quinn@example.com",
+      "totalPurchases": 1600,
+      "engagementScore": 83,
+      "preferences": ["Books", "Art"],
+      "lastInteraction": "2024-11-17",
+      "recentPurchaseDate": "2024-11-21"
+    },
+    {
+      "id": 18,
+      "name": "Rachel King",
+      "email": "rachel@example.com",
+      "totalPurchases": 2050,
+      "engagementScore": 86,
+      "preferences": ["Beauty", "Health"],
+      "lastInteraction": "2024-11-18",
+      "recentPurchaseDate": "2024-11-22"
+    },
+    {
+      "id": 19,
+      "name": "Samuel Baker",
+      "email": "samuel@example.com",
+      "totalPurchases": 1750,
+      "engagementScore": 84,
+      "preferences": ["Electronics", "Home"],
+      "lastInteraction": "2024-11-19",
+      "recentPurchaseDate": "2024-11-23"
+    },
+    {
+      "id": 20,
+      "name": "Tara Scott",
+      "email": "tara@example.com",
+      "totalPurchases": 2900,
+      "engagementScore": 92,
+      "preferences": ["Fashion", "Jewelry"],
+      "lastInteraction": "2024-11-20",
+      "recentPurchaseDate": "2024-11-24"
+    }
+  ]
+}
